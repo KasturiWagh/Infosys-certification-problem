@@ -18,6 +18,8 @@ Concider a non-empty array of position integers inarr. Identify and print outarr
   
     First line contains the elements of inarr separated by " "(space).
     Read the input from standard input stream.
+  <br />
+  
   **Output format**:
   
     Print outarr with the elements separated by ',' to the standard output stream.
