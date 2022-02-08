@@ -1,5 +1,5 @@
 arr = []                     #All sequences  
-curr = []                    #current value
+curr = []                    #Current value
 
 def check(a):
     curr = a
